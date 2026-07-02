@@ -1,6 +1,6 @@
 <h1 align="center"> <p>TJNU-TLS Datasets</p></h1>
 
-The TJNU-TLS Datasets consist of large-scale TLS point clouds. The datasets are used for benchmarking automatic point cloud registration methods. Three datasets were acquired in the campus of the Tianjin Normal University (TJNU), China. The scan stations are shown below.
+The TJNU-TLS Datasets consist of three large-scale TLS point cloud datasets.  The datasets were acquired in the campus of the Tianjin Normal University (TJNU), China. The datasets are used for benchmarking automatic point cloud registration methods. The scan stations are shown below.
 
 <img src="Scan Stations.png" alt="Network" style="zoom:50%;" />
 
